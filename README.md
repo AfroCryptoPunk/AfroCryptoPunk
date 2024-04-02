@@ -1,13 +1,10 @@
-<h1>Hi, I'm Afro Punk! <br/><a href="https://afrocryptopunks.com/">Web3 Founder</a>, <a href="https://opensea.io/account?tab=featured">Digital Collector</a>, <a href="https://opensea.io/collection/afrocryptopunk">Digital Collection</a>,<a href="https://afrocryptopunks.com/research-development/">Blockchain Researcher
-  
-  <h5> Afro Crypto Punk is the Black Wall Street of Web3! We are here to onboard new web3 users, help start-ups scale, and research blockchain challenges to develop feasible solutions making this space a better place for everyone. </h5>
+<h1>Hi, I'm Afro Punk! <br/><a href="https://afrocryptopunk.com/">Web3 Founder</a>, <a href="https://opensea.io/account?tab=featured">Digital Collector</a>, <a href="https://opensea.io/collection/afrocryptopunk">Digital Collection</a>
+  <h5> Afro Crypto Punk is the Black Wall Street of Web3! We are here to onboard new web3 users, people of color become accumulated with interacting with the blockcain, and develop solutions making this space a better place for everyone. </h5>
 
 <h2>👨‍💻 Web3 Work:</h2>
 
 - <b>The Black Wall Street of Web3 ✊🏽👑 (Web3 Project)</b>
-  - [New Web3 user onboarding & Start-up development company](https://afrocryptopunks.com/)
-- <b> Web3 Research & Development (Wallet recovery, Common Scams, research resources)</b>
-  - [Research related to web3 security](https://afrocryptopunks.com/research-development/) <b><i>(For Research & Education purposes only)</b></i>
+  - [New Web3 user onboarding & Start-up development company](https://afrocryptopunk.com/)
 - <b> Virtual Web3 Events</b>
   - [NFT Onboarding (Minting Directly from smart contract + Best Security Practices )](https://twitter.com/AfroCryptoPunk/status/1486803780876345348?s=20&t=NbQqu9rYQIQyj2_G8uNkTw)
   - [Web3 Security Best Practices (With MetaMask Community Manager)](https://twitter.com/AfroCryptoPunk/status/1481847848769630211?s=20&t=NbQqu9rYQIQyj2_G8uNkTw)
